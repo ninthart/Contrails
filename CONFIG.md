@@ -3,19 +3,19 @@
 
 > This is the feed's ID which can be letters, numbers, or dashes. Spaces are not allowed. Maximum length is 15 characters.
 
-emotional-support-pets
+comics
 
 # displayName
 
 > This is the title of the custom feed. Maximum length is 24 characters.
 
-Emotional Support Pets
+Comics
 
 # description
 
 > This is the description of the feed.
 
-Cute animals feed
+Bluesky comics feed
 
 # searchTerms
 
@@ -25,12 +25,11 @@ Cute animals feed
 > - Keywords (maximum 5 terms): Test these in [https://bsky.app/search](https://bsky.app/search). `AND` is implicit, so `cat dog` on one line will require both `cat` and `dog`. You can use quotes as well `"hot dog"`.
 >
 
-- https://bsky.app/profile/saddymayo.bsky.social/post/3jxju2wwap22e
-- cats
-- dogs
-- penguins
-- red pandas
-- quokkas
+- comics
+- comix
+- bande dessinée
+- bd
+- sequential art
 
 # avatar
 
