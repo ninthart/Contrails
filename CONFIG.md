@@ -29,7 +29,7 @@ Bluesky comics feed
 - comix
 - bande dessinée
 - bd
-- sequential art
+- manga
 
 # avatar
 
