@@ -3,7 +3,7 @@
 
 > This is the feed's ID which can be letters, numbers, or dashes. Spaces are not allowed. Maximum length is 15 characters.
 
-gaming-emojis
+bluesky-app
 
 # isEnabled
 
@@ -15,13 +15,13 @@ false
 
 > This is the title of the custom feed. Maximum length is 24 characters.
 
-Gaming Emojis
+Bluesky App
 
 # description
 
 > This is the description of the feed.
 
-Posts with 👾🎮🕹️
+Updates about the app
 
 # searchTerms
 
@@ -31,14 +31,13 @@ Posts with 👾🎮🕹️
 > - Users: links such as `https://bsky.app/profile/why.bsky.team` will pull in the user's posts (but not replies or reposts).
 > - Pinned posts: links such as `https://bsky.app/profile/saddymayo.bsky.social/post/3jxju2wwap22e` will pin at the top of the feed. One link per line, please.
 
-- 👾
-- 🎮
-- 🕹️
+- https://bsky.app/profile/bsky.app
+- https://bsky.app/profile/atproto.com
 
 # safeMode
 
 > Safe mode limits the total number of API calls coming from Cloudflare.
-> 
+>
 > Set to `false` if you have higher limits via a paid Cloudflare plan.
 
 true

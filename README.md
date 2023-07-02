@@ -8,7 +8,7 @@ Fork or copy the repository and edit `CONFIG.md` to define your feed generator.
 
 Deploy right from [GitHub Actions](https://github.com/features/actions) to [Cloudflare Workers](https://workers.cloudflare.com).
 
-The current release is [**0.0.4**](https://github.com/jcsalterego/Contrails/releases/latest).
+The current release is [**0.2.0**](https://github.com/jcsalterego/Contrails/releases/latest).
 
 ## Requirements
 
@@ -39,14 +39,25 @@ The longer (and incomplete) instructions can be found in [INSTALL.md](INSTALL.md
 
 ## Upgrading
 
+The first step before any major upgrade is to make a copy of your markdown config file. Your best bet is to save it in a separate directory such as `backup_configs/`, or you will have to remember to set `isEnabled` to false so it doesn't get picked up as a live config!
+
 In the event you'd like to pull in the latest changes into a fork of Contrails, GitHub has great documentation here:
 [GitHub Docs: Syncing a fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork)
 
 ## Changelog
 
+### 0.2.0
+
+* Pagination
+* Safe Mode
+
+### 0.1.0
+
+* New search term type: Users
+
 ### 0.0.4
 
-* Pinned posts support
+* New search term type: Pinned posts
 
 ### 0.0.3
 
