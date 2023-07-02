@@ -30,6 +30,17 @@ Bluesky comics feed
 - bande dessinée
 - bd
 - manga
+- comic book
+- comic strip
+- comic
+- tebeo
+- historieta
+- manhua
+- manhwa
+- webtoon
+- webcomics
+- webcomic
+- fumetti
 
 # safeMode
 
