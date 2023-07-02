@@ -41,6 +41,7 @@ Bluesky comics feed
 - webcomics
 - webcomic
 - fumetti
+- #comics
 
 # safeMode
 
