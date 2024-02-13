@@ -42,6 +42,13 @@ Bluesky comics feed
 - webcomic
 - fumetti
 - #comics
+- digital comics
+- #bd
+- #manga
+- graphic novel
+- graphic narrative
+- graphic medicine
+- sequential art
 
 # denyList
 
